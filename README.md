@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hey! 👋</h1>
 
 I'm Xavier Lien, a Computer Science student at Carnegie Mellon University 🎓 with a passion for Software Engineering 💻, Math ➗, and Machine Learning 🤖. I'm excited by the challenges and opportunities in building scalable software systems and exploring how AI can be applied to solve real-world problems.
 
