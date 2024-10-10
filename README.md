@@ -8,6 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-xlien@andrew.cmu.edu-c14438?&logo=Gmail&logoColor=white&link=mailto:xlien@andrew.cmu.edu)](mailto:xlien@andrew.cmu.edu)
 ![Views](https://komarev.com/ghpvc/?username=xavilien&label=Views)
 ![Visits](https://badges.pufler.dev/visits/xavilien/xavilien?color=black&logo=github)
+[![Updated Badge](https://badges.pufler.dev/updated/xavilien/xavilien)](https://badges.pufler.dev)
 
 </div>
 
