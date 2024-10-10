@@ -6,4 +6,6 @@ Check out my [LinkedIn](https://linkedin.com/in/xavilien) for more details on my
 
 I have experience developing full stack web applications using Node.js, React, Firebase, Flask, Express, and MongoDB, as well as machine learning applications with TensorFlow, Pandas, NumPy, and Plotly. My top programming languages are:
 
-[![Top Langs](https://github-readme-stats-lovat-rho.vercel.app/api/top-langs/?username=xavilien&layout=compact&theme=dark)](https://github.com/xavilien/github-readme-stats)
+![Xavier's GitHub stats](https://github-readme-stats-gnl4mtxhv-xaviliens-projects.vercel.app/api?username=xavilien&layout=compact&theme=dark)
+
+[![Top Langs](https://github-readme-stats-gnl4mtxhv-xaviliens-projects.vercel.app/api/top-langs/?username=xavilien&layout=compact&theme=dark)](https://github.com/xavilien/github-readme-stats)
