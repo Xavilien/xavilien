@@ -17,8 +17,6 @@ I'm Xavier Lien, a Computer Science student at Carnegie Mellon University 🎓 w
 
 ![Xavier's GitHub stats](https://github-readme-stats-tdrr.vercel.app/api?username=xavilien&layout=compact&theme=radical)
 
-Check out my [LinkedIn](https://linkedin.com/in/xavilien) for more details on my projects and experiences.
-
 I have experience developing full stack web applications using:
 
 [![Web](https://skillicons.dev/icons?i=react,flask,js,ts,python,nodejs,bun,html,css,tailwind,prisma,postgres,mongodb,firebase,git,github,bash,vscode,webstorm,pycharm)](https://skillicons.dev)
